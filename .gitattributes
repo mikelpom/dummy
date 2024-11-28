@@ -1,4 +1,4 @@
 # This file contains export-ignore rules to exclude files from release archives
 
-.gitattributes
+.gitattributes export-ignore
 dummy.txt export-ignore
